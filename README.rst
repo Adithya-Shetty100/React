@@ -1,0 +1,1 @@
+podcaste and Logical extension might cause "error bcoz cant load chrome extension"
